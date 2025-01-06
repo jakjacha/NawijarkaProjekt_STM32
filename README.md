@@ -1,1 +1,1 @@
-Oprogramoawnie STM32F411CEU dla sterownika nawijarki światłowodowej.
+Oprogramowanie STM32F411CEU dla sterownika nawijarki światłowodowej.
