@@ -1,0 +1,2 @@
+../Core/Src/hx711.c:14:6:HX711_SetGain	1
+../Core/Src/hx711.c:22:10:HX711_Read	8

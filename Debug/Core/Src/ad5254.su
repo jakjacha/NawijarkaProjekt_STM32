@@ -1,0 +1,2 @@
+../Core/Src/ad5254.c:7:19:AD5254_SetValue	32	static
+../Core/Src/ad5254.c:18:19:AD5254_GetValue	32	static
