@@ -1,0 +1,10 @@
+/*.ioc
+/.settings/
+/Debug/
+/*.bin
+/*.elf
+/*.hex
+/*.map
+/*.log
+*.swp
+*.swo
